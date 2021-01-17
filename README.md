@@ -2,8 +2,6 @@
 
 Date: 2020-01-17
 
-Notice: I don't find any tools related to secirity and testing. As an entire ecosystem, WebAssembly landscape should cover these tools.
-
 
 ## Supported Languages
 
@@ -43,15 +41,15 @@ Notice: I don't find any tools related to secirity and testing. As an entire eco
 > Soure: https://caniuse.com/?search=webassembly 
 
 ## WebAssembly VMs
-* Lucet
+* Gasm
+* Lucet/wasmtime
 * SSVM
+* Swam
 * V8
 * WAMR
 * wasm3
 * wasmer
 * wasmi
-* wasmtime
-* WAMR
 * WAVM
 
 ## Toolchains
@@ -94,8 +92,12 @@ Notice: I don't find any tools related to secirity and testing. As an entire eco
 * OCI
 * OpenEuler/iSula
 * waSCC
-* Wasmer
-* Wasm-joey
+
+## Security
+* none
+
+## Testing
+* none
 
 ## Popular Libraries Compiled to WebAssembly
 * TensorFlow
@@ -116,6 +118,7 @@ Notice: I don't find any tools related to secirity and testing. As an entire eco
 * Node.js
 * Deno
 * Wasm-joey
+* Blazor WebAssembly
 
 ## Cloud Providers
 * Cloudflare
@@ -125,10 +128,28 @@ Notice: I don't find any tools related to secirity and testing. As an entire eco
 
 ## Blockchains
 * Cosmos-wasm
+* Definity
 * Ethereum
 * EOS
 * Near
 * Oasis Labs
-* Polkadot 
+* ParaState
+* Substrate 
 * Solana
 
+
+## Adding to this landscape
+
+Please ensure your pull request adheres to the following guidelines:
+
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- Use the following format: `[Name](link)`
+- Link additions should be added to the bottom of the relevant category, with the exception of date ordered categories.
+- New categories or improvements to the existing categorization are welcome.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- The pull request and commit should have a useful title.
+- The body of your commit message should contain a link to the repository.
+
+Thank you for your suggestions!
