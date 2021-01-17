@@ -110,6 +110,7 @@ Notice: I don't find any tools related to secirity and testing. As an entire eco
 * Bilibili
 * Privoce
 * MasterGo
+* Squoosh
 
 ## Application Servers
 * Node.js
