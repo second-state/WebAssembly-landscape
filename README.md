@@ -113,6 +113,7 @@ Date: 2020-01-17
 * Privoce
 * MasterGo
 * Squoosh
+* Shopify
 
 ## Application Servers
 * Node.js
