@@ -63,16 +63,15 @@ Date: 2020-01-17
 
 ## WebAssembly Extensions
 
-* DWARF
-* ewasm
-* Nanoprocess
-* SIMD
-* WASI
-* wasi-nn
-* wasi-ni
-* wasi-socket
-* wasi-storage
-* wasi-tensorflow
+* [DWARF](https://lucumr.pocoo.org/2020/11/30/how-to-wasm-dwarf/)
+* [ewasm](https://github.com/ewasm)
+* [Nanoprocess](https://bytecodealliance.org/articles/1-year-update)
+* [SIMD](https://github.com/WebAssembly/simd)
+* [WASI](https://wasi.dev/)
+* [wasi-nn](https://github.com/WebAssembly/wasi-nn)
+* [wasi-socket](https://radu-matei.com/blog/towards-sockets-networking-wasi/)
+* [wasi-storage](https://github.com/second-state/ssvm-napi-extensions)
+* [wasi-tensorflow](https://github.com/second-state/ssvm-napi-extensions)
 
 ## Debugging
 * DWARF
@@ -111,7 +110,7 @@ Date: 2020-01-17
 * Google Meeting
 * Bilibili
 * Privoce
-* MasterGo
+* Master
 * Squoosh
 * Shopify
 
