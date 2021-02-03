@@ -8,25 +8,26 @@ Date: 2020-01-17
 
 ### First class citizens:
 
-* C/C++
-* Rust 
-* AssemblyScript
-* TinyGo
-* Zig
-* Solidity
-* Fe
+* [C](http://www.open-std.org/jtc1/sc22/wg14/)
+* [C++](https://isocpp.org/)
+* [Rust](https://github.com/rust-lang/rust) 
+* [AssemblyScript](https://github.com/AssemblyScript/assemblyscript)
+* [TinyGo](https://github.com/tinygo-org/tinygo)
+* [Zig](https://github.com/ziglang/zig)
+* [Solidity](https://github.com/ethereum/solidity)
+* [Fe](https://github.com/ethereum/fe)
 
 ### Second class citizens:
 
-* C#
-* F#
-* Go
-* Python
-* Java
-* Kotlin
-* Swift
-* D 
-* Pascal
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+* [F#](https://fsharp.org/)
+* [Go](https://github.com/golang/go)
+* [Python](https://github.com/python)
+* [Java]()
+* [Kotlin](https://github.com/JetBrains/kotlin)
+* [Swift](https://github.com/apple/swift)
+* [D](https://dlang.org/)
+* [Pascal](http://www.pascal-programming.info/)
 
 
 ## Supported Browsers
