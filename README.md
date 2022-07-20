@@ -1,6 +1,6 @@
 # WebAssembly Landscape
 
-Date: 2020-01-17
+Date: 2022-07-20
 
 
 ## Supported Languages
@@ -88,7 +88,7 @@ Date: 2020-01-17
 
 ## Orchestrations
 * Atmo
-* K8s
+* [K8s](https://wasmedge.org/book/en/kubernetes.html)
 * Krustlet
 * OCI
 * OpenEuler/iSula
