@@ -44,7 +44,7 @@ Date: 2020-01-17
 ## WebAssembly VMs
 * [Gasm](https://github.com/mathetake/gasm)
 * [Lucet/wasmtime](https://github.com/bytecodealliance/lucet)
-* [SSVM](https://github.com/second-state/SSVM)
+* [WasmEdge](https://github.com/WasmEdge/WasmEdge)
 * [Swam](https://github.com/satabin/swam)
 * [V8](https://github.com/v8/v8)
 * [WAMR](https://github.com/bytecodealliance/wasm-micro-runtime)
@@ -59,7 +59,7 @@ Date: 2020-01-17
 * [Emscripten](https://github.com/emscripten-core/emscripten)
 * [Solang](https://github.com/hyperledger-labs/solang)
 * [SOLL](https://github.com/second-state/SOLL)
-* [ssvmup](https://github.com/second-state/ssvmup)
+* [rustwasmc](https://github.com/second-state/rustwasmc)
 * [wasm-pack](https://github.com/rustwasm/wasm-pack)
 
 ## WebAssembly Extensions
