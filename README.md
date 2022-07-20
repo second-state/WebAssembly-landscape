@@ -19,6 +19,7 @@ Date: 2020-01-17
 
 ### Second class citizens:
 
+* [JavaScript](https://wasmedge.org/book/en/dev/js.html)
 * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 * [F#](https://fsharp.org/)
 * [Go](https://github.com/golang/go)
